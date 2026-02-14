@@ -1,0 +1,932 @@
+{
+  "yawFix": 180,
+  "rawPoints": [
+    {
+      "index": 1,
+      "lat": 19.045803,
+      "lon": -96.033922,
+      "imageUrl": "blob:https://andresmtzc.github.io/a2af35fd-b706-4426-bced-761e205abf6b"
+    },
+    {
+      "index": 2,
+      "lat": 19.045846930664716,
+      "lon": -96.03393003992187,
+      "imageUrl": "blob:https://andresmtzc.github.io/746a2514-d293-4bc5-9e98-badcc9b3f03e"
+    },
+    {
+      "index": 3,
+      "lat": 19.045890896899408,
+      "lon": -96.03393807667888,
+      "imageUrl": "blob:https://andresmtzc.github.io/a6c74b4a-a9e7-4572-baeb-84c27d51d8d9"
+    },
+    {
+      "index": 4,
+      "lat": 19.04593338404674,
+      "lon": -96.03395225630396,
+      "imageUrl": "blob:https://andresmtzc.github.io/c9e687fa-9e71-4b3d-875e-49eadf0f97db"
+    },
+    {
+      "index": 5,
+      "lat": 19.045968796580468,
+      "lon": -96.03398011269958,
+      "imageUrl": "blob:https://andresmtzc.github.io/497326e9-1aed-41dc-bae5-1f8502f8350f"
+    },
+    {
+      "index": 6,
+      "lat": 19.045985684080506,
+      "lon": -96.03402345308625,
+      "imageUrl": "blob:https://andresmtzc.github.io/159d4796-ec0d-438b-9a10-2d4b7949b64e"
+    },
+    {
+      "index": 7,
+      "lat": 19.0459919507268,
+      "lon": -96.03407015739778,
+      "imageUrl": "blob:https://andresmtzc.github.io/dadab4d5-f58d-4ef8-a65d-6fe4c1bcd295"
+    },
+    {
+      "index": 8,
+      "lat": 19.04599397675878,
+      "lon": -96.03411731654936,
+      "imageUrl": "blob:https://andresmtzc.github.io/64622577-ec87-4f86-83b2-62df02782ddf"
+    },
+    {
+      "index": 9,
+      "lat": 19.04599456341106,
+      "lon": -96.03416452641717,
+      "imageUrl": "blob:https://andresmtzc.github.io/daf0b06e-a82c-43d2-b5ea-a9da356c68c7"
+    },
+    {
+      "index": 10,
+      "lat": 19.045995718725276,
+      "lon": -96.03421172174333,
+      "imageUrl": "blob:https://andresmtzc.github.io/6bba24e1-ad69-48bd-81ad-1438ff2b245b"
+    },
+    {
+      "index": 11,
+      "lat": 19.04599925541985,
+      "lon": -96.03425878327673,
+      "imageUrl": "blob:https://andresmtzc.github.io/f4e5dee3-0067-4bf1-8f5c-5bcd4c81effd"
+    },
+    {
+      "index": 12,
+      "lat": 19.046002857223424,
+      "lon": -96.0343058432606,
+      "imageUrl": "blob:https://andresmtzc.github.io/612247e9-ed26-4060-b1e9-ca662ed14245"
+    },
+    {
+      "index": 13,
+      "lat": 19.04600604931584,
+      "lon": -96.03435293639588,
+      "imageUrl": "blob:https://andresmtzc.github.io/4face5c4-9510-425d-9495-8113b681a66f"
+    },
+    {
+      "index": 14,
+      "lat": 19.046008922367655,
+      "lon": -96.03440005258813,
+      "imageUrl": "blob:https://andresmtzc.github.io/4a0c2609-d777-4c07-bcc5-49f4efd26fc0"
+    },
+    {
+      "index": 15,
+      "lat": 19.046011587806913,
+      "lon": -96.03444718248717,
+      "imageUrl": "blob:https://andresmtzc.github.io/864a3ba8-37b8-40df-9130-e645a2fd88f3"
+    },
+    {
+      "index": 16,
+      "lat": 19.046014048615852,
+      "lon": -96.03449432469421,
+      "imageUrl": "blob:https://andresmtzc.github.io/42ac0249-965d-4fb0-a071-feb275639cb9"
+    },
+    {
+      "index": 17,
+      "lat": 19.04601611465915,
+      "lon": -96.03454148817158,
+      "imageUrl": "blob:https://andresmtzc.github.io/986f87ba-e34d-4007-8f53-93fcfa01a188"
+    },
+    {
+      "index": 18,
+      "lat": 19.046017960541196,
+      "lon": -96.03458866195771,
+      "imageUrl": "blob:https://andresmtzc.github.io/82c58481-c6da-4745-9fcd-e4e5af2ae4b1"
+    },
+    {
+      "index": 19,
+      "lat": 19.04601978652255,
+      "lon": -96.0346358366197,
+      "imageUrl": "blob:https://andresmtzc.github.io/bb18984f-4117-464d-a29c-305e2c1860be"
+    },
+    {
+      "index": 20,
+      "lat": 19.046021792842676,
+      "lon": -96.03468300301222,
+      "imageUrl": "blob:https://andresmtzc.github.io/853adc74-d9de-4305-86cd-2b223c5595d4"
+    },
+    {
+      "index": 21,
+      "lat": 19.046024159892845,
+      "lon": -96.03473015060833,
+      "imageUrl": "blob:https://andresmtzc.github.io/3789e570-c206-4d11-ba24-b964aabdee2e"
+    },
+    {
+      "index": 22,
+      "lat": 19.046026814783026,
+      "lon": -96.03477728117088,
+      "imageUrl": "blob:https://andresmtzc.github.io/0b762e7f-7fe7-4642-917e-527d702e577c"
+    },
+    {
+      "index": 23,
+      "lat": 19.0460294887659,
+      "lon": -96.03482441053836,
+      "imageUrl": "blob:https://andresmtzc.github.io/b25b8d1e-d2a8-4f44-8888-1554f0405de6"
+    },
+    {
+      "index": 24,
+      "lat": 19.046031930651985,
+      "lon": -96.03487155391063,
+      "imageUrl": "blob:https://andresmtzc.github.io/512d8524-a7ba-4a39-9229-5d715e6c4b1c"
+    },
+    {
+      "index": 25,
+      "lat": 19.046034007965957,
+      "lon": -96.03491871678783,
+      "imageUrl": "blob:https://andresmtzc.github.io/f95a400e-3909-44eb-ba18-31c35158a705"
+    },
+    {
+      "index": 26,
+      "lat": 19.04603498425933,
+      "lon": -96.03496591725083,
+      "imageUrl": "blob:https://andresmtzc.github.io/fbf34408-0765-4f13-8d6f-aeb956b5cdcc"
+    },
+    {
+      "index": 27,
+      "lat": 19.04603500790699,
+      "lon": -96.03501313117388,
+      "imageUrl": "blob:https://andresmtzc.github.io/9d722352-c76e-46fb-affd-c580228f0a55"
+    },
+    {
+      "index": 28,
+      "lat": 19.046034828225267,
+      "lon": -96.03506034499037,
+      "imageUrl": "blob:https://andresmtzc.github.io/359c8e0a-d575-4576-9e14-37f825357451"
+    },
+    {
+      "index": 29,
+      "lat": 19.046034946525577,
+      "lon": -96.03510755871054,
+      "imageUrl": "blob:https://andresmtzc.github.io/337aea4b-c811-4800-8de4-ef4d17550862"
+    },
+    {
+      "index": 30,
+      "lat": 19.04603591023441,
+      "lon": -96.03515476038501,
+      "imageUrl": "blob:https://andresmtzc.github.io/e2456502-1c7f-4604-9a1a-6ee3248e7ef8"
+    },
+    {
+      "index": 31,
+      "lat": 19.046038686933887,
+      "lon": -96.03520187587078,
+      "imageUrl": "blob:https://andresmtzc.github.io/efcf807a-82ea-41f5-89ad-222c8afa6744"
+    },
+    {
+      "index": 32,
+      "lat": 19.046045879130034,
+      "lon": -96.03524842320807,
+      "imageUrl": "blob:https://andresmtzc.github.io/a0efb4e1-f24f-4b54-ba9f-30e25d6df77a"
+    },
+    {
+      "index": 33,
+      "lat": 19.046060325129915,
+      "lon": -96.03529297048367,
+      "imageUrl": "blob:https://andresmtzc.github.io/322a1b00-22ee-41d1-bad3-35a24cc09022"
+    },
+    {
+      "index": 34,
+      "lat": 19.046091814371493,
+      "lon": -96.03532522098389,
+      "imageUrl": "blob:https://andresmtzc.github.io/20ef2b54-f99a-4ed5-8014-7ae0923af1bf"
+    },
+    {
+      "index": 35,
+      "lat": 19.046133763072394,
+      "lon": -96.03534106900182,
+      "imageUrl": "blob:https://andresmtzc.github.io/7ce4d795-fbdd-499d-b538-24101d4d2df7"
+    },
+    {
+      "index": 36,
+      "lat": 19.046178036159784,
+      "lon": -96.03534652253539,
+      "imageUrl": "blob:https://andresmtzc.github.io/ea2f11cb-4718-46ec-99f1-c2dd49baccd1"
+    },
+    {
+      "index": 37,
+      "lat": 19.046222656535008,
+      "lon": -96.03534671608465,
+      "imageUrl": "blob:https://andresmtzc.github.io/8dfc7285-2306-4093-8ba4-dc37d0bb40a6"
+    },
+    {
+      "index": 38,
+      "lat": 19.04626724703635,
+      "lon": -96.03534477612405,
+      "imageUrl": "blob:https://andresmtzc.github.io/a2043a89-1cea-4914-9b47-5f5bdbdcf2a3"
+    },
+    {
+      "index": 39,
+      "lat": 19.046311813806536,
+      "lon": -96.03534227362904,
+      "imageUrl": "blob:https://andresmtzc.github.io/8815583d-83b3-4aa6-912f-4e50b93713f8"
+    },
+    {
+      "index": 40,
+      "lat": 19.046356403688296,
+      "lon": -96.03534029567116,
+      "imageUrl": "blob:https://andresmtzc.github.io/e43ca258-062f-4636-8313-35816310d767"
+    },
+    {
+      "index": 41,
+      "lat": 19.046400938224366,
+      "lon": -96.0353372446163,
+      "imageUrl": "blob:https://andresmtzc.github.io/b7caf022-eaa4-478a-add6-1e677b555092"
+    },
+    {
+      "index": 42,
+      "lat": 19.046445395434432,
+      "lon": -96.03533310517638,
+      "imageUrl": "blob:https://andresmtzc.github.io/3ddafa8a-c153-45e1-ab8f-40ad70e23539"
+    },
+    {
+      "index": 43,
+      "lat": 19.046489821240208,
+      "lon": -96.03532859895095,
+      "imageUrl": "blob:https://andresmtzc.github.io/fb68c348-b908-4b87-a159-958a373f64a2"
+    },
+    {
+      "index": 44,
+      "lat": 19.046534269223553,
+      "lon": -96.03532434679182,
+      "imageUrl": "blob:https://andresmtzc.github.io/c202e1b4-61e1-4bee-bff6-1830daba94b3"
+    },
+    {
+      "index": 45,
+      "lat": 19.046578724363307,
+      "lon": -96.03532019222402,
+      "imageUrl": "blob:https://andresmtzc.github.io/ce850a1c-d59b-4ca4-8180-b7c2a0b1042b"
+    },
+    {
+      "index": 46,
+      "lat": 19.04662306480536,
+      "lon": -96.0353148320028,
+      "imageUrl": "blob:https://andresmtzc.github.io/49e4241f-71fb-4e59-b9fa-ad974d7f2eab"
+    },
+    {
+      "index": 47,
+      "lat": 19.04666736425375,
+      "lon": -96.03530910022006,
+      "imageUrl": "blob:https://andresmtzc.github.io/c9a5c9bc-c1da-419e-83ba-94483a5a0945"
+    },
+    {
+      "index": 48,
+      "lat": 19.046711694125186,
+      "lon": -96.03530364077524,
+      "imageUrl": "blob:https://andresmtzc.github.io/30d1832f-eb37-44c8-a31d-3649d4a5e6cd"
+    },
+    {
+      "index": 49,
+      "lat": 19.046756114025243,
+      "lon": -96.03529908700294,
+      "imageUrl": "blob:https://andresmtzc.github.io/f3919d8a-02ed-4c44-8275-cc2e2b0d59e5"
+    },
+    {
+      "index": 50,
+      "lat": 19.04680066662148,
+      "lon": -96.03529643268563,
+      "imageUrl": "blob:https://andresmtzc.github.io/53315ab5-e675-49ec-8487-4234db3b58e4"
+    },
+    {
+      "index": 51,
+      "lat": 19.046845215143268,
+      "lon": -96.03529831025396,
+      "imageUrl": "blob:https://andresmtzc.github.io/0d4f9d19-786d-42c3-951a-8bff3674a8f0"
+    },
+    {
+      "index": 52,
+      "lat": 19.046889373758592,
+      "lon": -96.03530511865223,
+      "imageUrl": "blob:https://andresmtzc.github.io/e378a8de-e141-4d26-88cc-00d2264d8034"
+    },
+    {
+      "index": 53,
+      "lat": 19.046926243235994,
+      "lon": -96.03532876755372,
+      "imageUrl": "blob:https://andresmtzc.github.io/127151b1-e9ba-430e-99d1-1c354cdc58ac"
+    },
+    {
+      "index": 54,
+      "lat": 19.046941437850776,
+      "lon": -96.035372966354,
+      "imageUrl": "blob:https://andresmtzc.github.io/7d33ff63-9b80-4b0d-a845-1fd2f79a616b"
+    },
+    {
+      "index": 55,
+      "lat": 19.04694894511205,
+      "lon": -96.03541945802205,
+      "imageUrl": "blob:https://andresmtzc.github.io/31f172af-0dbe-4b69-9bbc-f48e85ebe0b4"
+    },
+    {
+      "index": 56,
+      "lat": 19.046952136121018,
+      "lon": -96.03546654527418,
+      "imageUrl": "blob:https://andresmtzc.github.io/0460d23c-cb64-4abb-8371-f27017ba46b5"
+    },
+    {
+      "index": 57,
+      "lat": 19.046953587476494,
+      "lon": -96.03551373340508,
+      "imageUrl": "blob:https://andresmtzc.github.io/6b56086f-525a-46b9-97a7-bb72dd780d32"
+    },
+    {
+      "index": 58,
+      "lat": 19.046954094055764,
+      "lon": -96.03556094434087,
+      "imageUrl": "blob:https://andresmtzc.github.io/11995765-2d3b-40e4-92cc-61ea7b4d18c6"
+    },
+    {
+      "index": 59,
+      "lat": 19.046954008955833,
+      "lon": -96.03560815848036,
+      "imageUrl": "blob:https://andresmtzc.github.io/9a5c2ee6-0c65-4938-a5c0-b6ac9099dbcc"
+    },
+    {
+      "index": 60,
+      "lat": 19.04695354232952,
+      "lon": -96.03565537025781,
+      "imageUrl": "blob:https://andresmtzc.github.io/dbabd50a-249c-4b30-95f7-3e742cef3184"
+    },
+    {
+      "index": 61,
+      "lat": 19.04695285523168,
+      "lon": -96.03570257910701,
+      "imageUrl": "blob:https://andresmtzc.github.io/69ebaef1-c13f-4dfe-8618-9051f576d4ea"
+    },
+    {
+      "index": 62,
+      "lat": 19.046952147390872,
+      "lon": -96.03574978761696,
+      "imageUrl": "blob:https://andresmtzc.github.io/50d52c86-8d96-4c84-930b-d141ebb4f44e"
+    },
+    {
+      "index": 63,
+      "lat": 19.046952,
+      "lon": -96.035797,
+      "imageUrl": "blob:https://andresmtzc.github.io/6035a71c-5dcf-4aec-aa5e-b19b7e9af244"
+    }
+  ],
+  "controlPoints": [
+    {
+      "lon": -96.0339090959614,
+      "lat": 19.04574615407563
+    },
+    {
+      "lon": -96.03397511727594,
+      "lat": 19.04592345816323
+    },
+    {
+      "lon": -96.03452292107596,
+      "lat": 19.045964763607287
+    },
+    {
+      "lon": -96.03501558951665,
+      "lat": 19.045982944021404
+    },
+    {
+      "lon": -96.03531296596245,
+      "lat": 19.04600671840676
+    },
+    {
+      "lon": -96.0353362432978,
+      "lat": 19.046182179323978
+    },
+    {
+      "lon": -96.03531452763879,
+      "lat": 19.046627520047693
+    },
+    {
+      "lon": -96.03531156866893,
+      "lat": 19.04684428553314
+    },
+    {
+      "lon": -96.0354609966343,
+      "lat": 19.046873653738373
+    },
+    {
+      "lon": -96.03579536020072,
+      "lat": 19.046884841625015
+    }
+  ],
+  "redMarkers": [
+    {
+      "sequentialIndex": 0,
+      "originalImageIndex": 1,
+      "lat": 19.04574615407563,
+      "lon": -96.0339090959614,
+      "distanceAlongRoute": 0,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 1,
+      "originalImageIndex": 2,
+      "lat": 19.045791663130885,
+      "lon": -96.03390879164331,
+      "distanceAlongRoute": 0.005086014029358846,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 2,
+      "originalImageIndex": 3,
+      "lat": 19.045837344185305,
+      "lon": -96.0339083142854,
+      "distanceAlongRoute": 0.010172028058717692,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 3,
+      "originalImageIndex": 4,
+      "lat": 19.045881122966502,
+      "lon": -96.03392115017887,
+      "distanceAlongRoute": 0.015258042088076539,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 4,
+      "originalImageIndex": 5,
+      "lat": 19.045913774187298,
+      "lon": -96.03395420690826,
+      "distanceAlongRoute": 0.020344056117435384,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 5,
+      "originalImageIndex": 6,
+      "lat": 19.045930505107062,
+      "lon": -96.03399903698346,
+      "distanceAlongRoute": 0.025430070146794232,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 6,
+      "originalImageIndex": 7,
+      "lat": 19.045939561751823,
+      "lon": -96.0340464463034,
+      "distanceAlongRoute": 0.030516084176153077,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 7,
+      "originalImageIndex": 8,
+      "lat": 19.045945452871912,
+      "lon": -96.03409442535991,
+      "distanceAlongRoute": 0.035602098205511926,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 8,
+      "originalImageIndex": 9,
+      "lat": 19.045949567542472,
+      "lon": -96.03414261562301,
+      "distanceAlongRoute": 0.04068811223487077,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 9,
+      "originalImageIndex": 10,
+      "lat": 19.04595252145063,
+      "lon": -96.03419090227219,
+      "distanceAlongRoute": 0.04577412626422962,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 10,
+      "originalImageIndex": 11,
+      "lat": 19.045954764176393,
+      "lon": -96.03423923213465,
+      "distanceAlongRoute": 0.050860140293588464,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 11,
+      "originalImageIndex": 12,
+      "lat": 19.045956529000108,
+      "lon": -96.0342875844316,
+      "distanceAlongRoute": 0.05594615432294731,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 12,
+      "originalImageIndex": 13,
+      "lat": 19.04595801934983,
+      "lon": -96.034335947188,
+      "distanceAlongRoute": 0.061032168352306154,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 13,
+      "originalImageIndex": 14,
+      "lat": 19.045959419013496,
+      "lon": -96.03438431301093,
+      "distanceAlongRoute": 0.066118182381665,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 14,
+      "originalImageIndex": 15,
+      "lat": 19.045960908765753,
+      "lon": -96.03443267577916,
+      "distanceAlongRoute": 0.07120419641102385,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 15,
+      "originalImageIndex": 16,
+      "lat": 19.045962806997583,
+      "lon": -96.03448324079635,
+      "distanceAlongRoute": 0.07652319719438845,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 16,
+      "originalImageIndex": 17,
+      "lat": 19.045965364794696,
+      "lon": -96.03453377300106,
+      "distanceAlongRoute": 0.08184219797775304,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 17,
+      "originalImageIndex": 18,
+      "lat": 19.045967907859616,
+      "lon": -96.03458430633336,
+      "distanceAlongRoute": 0.08716119876111764,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 18,
+      "originalImageIndex": 19,
+      "lat": 19.04597005243643,
+      "lon": -96.03463486043955,
+      "distanceAlongRoute": 0.09248019954448222,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 19,
+      "originalImageIndex": 20,
+      "lat": 19.045971892265086,
+      "lon": -96.03468542805085,
+      "distanceAlongRoute": 0.09779920032784684,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 20,
+      "originalImageIndex": 21,
+      "lat": 19.04597351267795,
+      "lon": -96.03473600410683,
+      "distanceAlongRoute": 0.10311820111121142,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 21,
+      "originalImageIndex": 22,
+      "lat": 19.045974953117614,
+      "lon": -96.03478503390623,
+      "distanceAlongRoute": 0.10827411116580093,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 22,
+      "originalImageIndex": 23,
+      "lat": 19.045976345993477,
+      "lon": -96.03483406525147,
+      "distanceAlongRoute": 0.1134300212223529,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 23,
+      "originalImageIndex": 24,
+      "lat": 19.04597778359107,
+      "lon": -96.03488309514412,
+      "distanceAlongRoute": 0.1185859312784224,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 24,
+      "originalImageIndex": 25,
+      "lat": 19.045979380351948,
+      "lon": -96.03493211948316,
+      "distanceAlongRoute": 0.12374184133618137,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 25,
+      "originalImageIndex": 26,
+      "lat": 19.045981294157166,
+      "lon": -96.03498113098345,
+      "distanceAlongRoute": 0.12889775139271306,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 26,
+      "originalImageIndex": 27,
+      "lat": 19.045983621374443,
+      "lon": -96.03503012241144,
+      "distanceAlongRoute": 0.1340536614462384,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 27,
+      "originalImageIndex": 28,
+      "lat": 19.045984820989982,
+      "lon": -96.03507915727835,
+      "distanceAlongRoute": 0.13920957150752658,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 28,
+      "originalImageIndex": 29,
+      "lat": 19.045984885213482,
+      "lon": -96.03512821024803,
+      "distanceAlongRoute": 0.1443654815610174,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 29,
+      "originalImageIndex": 30,
+      "lat": 19.045984818068046,
+      "lon": -96.03517726335932,
+      "distanceAlongRoute": 0.14952139161864755,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 30,
+      "originalImageIndex": 31,
+      "lat": 19.045986219800696,
+      "lon": -96.0352262871455,
+      "distanceAlongRoute": 0.15467730167272886,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 31,
+      "originalImageIndex": 32,
+      "lat": 19.045992331891426,
+      "lon": -96.03527485696524,
+      "distanceAlongRoute": 0.15983321172279547,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 32,
+      "originalImageIndex": 33,
+      "lat": 19.04601101536846,
+      "lon": -96.03531931262611,
+      "distanceAlongRoute": 0.16498912177899344,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 33,
+      "originalImageIndex": 34,
+      "lat": 19.04604967956999,
+      "lon": -96.03534373762878,
+      "distanceAlongRoute": 0.17014503183704566,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 34,
+      "originalImageIndex": 35,
+      "lat": 19.046095916048564,
+      "lon": -96.0353422064881,
+      "distanceAlongRoute": 0.17530094188968354,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 35,
+      "originalImageIndex": 36,
+      "lat": 19.046142080675207,
+      "lon": -96.03533765468808,
+      "distanceAlongRoute": 0.1804568519377143,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 36,
+      "originalImageIndex": 37,
+      "lat": 19.046188418593264,
+      "lon": -96.03533622405186,
+      "distanceAlongRoute": 0.1856127619951725,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 37,
+      "originalImageIndex": 38,
+      "lat": 19.04623477688998,
+      "lon": -96.03533529373628,
+      "distanceAlongRoute": 0.19076867203909617,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 38,
+      "originalImageIndex": 39,
+      "lat": 19.04628111291786,
+      "lon": -96.03533347779673,
+      "distanceAlongRoute": 0.19592458209394795,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 39,
+      "originalImageIndex": 40,
+      "lat": 19.04632743121164,
+      "lon": -96.035331206307,
+      "distanceAlongRoute": 0.20108049215238313,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 40,
+      "originalImageIndex": 41,
+      "lat": 19.046373737272766,
+      "lon": -96.0353286694799,
+      "distanceAlongRoute": 0.20623640218681918,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 41,
+      "originalImageIndex": 42,
+      "lat": 19.04642003564323,
+      "lon": -96.03532597955096,
+      "distanceAlongRoute": 0.21139231220072044,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 42,
+      "originalImageIndex": 43,
+      "lat": 19.046460251379457,
+      "lon": -96.03532358245981,
+      "distanceAlongRoute": 0.2158711965561224,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 43,
+      "originalImageIndex": 44,
+      "lat": 19.046500467089675,
+      "lon": -96.03532118488067,
+      "distanceAlongRoute": 0.22035008081364282,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 44,
+      "originalImageIndex": 45,
+      "lat": 19.046540685998345,
+      "lon": -96.0353188483113,
+      "distanceAlongRoute": 0.2248289651593757,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 45,
+      "originalImageIndex": 46,
+      "lat": 19.04658091217916,
+      "lon": -96.03531665711905,
+      "distanceAlongRoute": 0.2293078494452354,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 46,
+      "originalImageIndex": 47,
+      "lat": 19.04662115244156,
+      "lon": -96.0353147816238,
+      "distanceAlongRoute": 0.23378673376392622,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 47,
+      "originalImageIndex": 48,
+      "lat": 19.0466613781591,
+      "lon": -96.03531262709325,
+      "distanceAlongRoute": 0.23826561805409324,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 48,
+      "originalImageIndex": 49,
+      "lat": 19.046701506808695,
+      "lon": -96.03530896317123,
+      "distanceAlongRoute": 0.24274450236502154,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 49,
+      "originalImageIndex": 50,
+      "lat": 19.046741561733683,
+      "lon": -96.0353044706276,
+      "distanceAlongRoute": 0.2472233866609369,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 50,
+      "originalImageIndex": 51,
+      "lat": 19.04678169380553,
+      "lon": -96.03530090005194,
+      "distanceAlongRoute": 0.2517022709565623,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 51,
+      "originalImageIndex": 52,
+      "lat": 19.046821824759515,
+      "lon": -96.03530306808264,
+      "distanceAlongRoute": 0.256181155260347,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 52,
+      "originalImageIndex": 53,
+      "lat": 19.046857259936473,
+      "lon": -96.03532195579055,
+      "distanceAlongRoute": 0.26066003956615924,
+      "isLocked": true
+    },
+    {
+      "sequentialIndex": 53,
+      "originalImageIndex": 54,
+      "lat": 19.046871845772564,
+      "lon": -96.03536581855917,
+      "distanceAlongRoute": 0.2656612625194971,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 54,
+      "originalImageIndex": 55,
+      "lat": 19.04687195051315,
+      "lon": -96.03541352804127,
+      "distanceAlongRoute": 0.270676734792202,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 55,
+      "originalImageIndex": 56,
+      "lat": 19.046873672590117,
+      "lon": -96.035461237088,
+      "distanceAlongRoute": 0.2756967746107928,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 56,
+      "originalImageIndex": 57,
+      "lat": 19.04687664951131,
+      "lon": -96.03550889685162,
+      "distanceAlongRoute": 0.2807173455465669,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 57,
+      "originalImageIndex": 58,
+      "lat": 19.046878638649382,
+      "lon": -96.0355566171138,
+      "distanceAlongRoute": 0.2857380093225354,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 58,
+      "originalImageIndex": 59,
+      "lat": 19.046880174612284,
+      "lon": -96.03560435660665,
+      "distanceAlongRoute": 0.2907586994453429,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 59,
+      "originalImageIndex": 60,
+      "lat": 19.046881451407575,
+      "lon": -96.03565210485166,
+      "distanceAlongRoute": 0.29577940371001626,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 60,
+      "originalImageIndex": 61,
+      "lat": 19.046882570099992,
+      "lon": -96.03569985765527,
+      "distanceAlongRoute": 0.3008001172203089,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 61,
+      "originalImageIndex": 62,
+      "lat": 19.04688362640989,
+      "lon": -96.03574761206528,
+      "distanceAlongRoute": 0.30582083115439607,
+      "isLocked": false
+    },
+    {
+      "sequentialIndex": 62,
+      "originalImageIndex": 63,
+      "lat": 19.046884841625015,
+      "lon": -96.03579536020072,
+      "distanceAlongRoute": 0.310841352811003,
+      "isLocked": true
+    }
+  ],
+  "marriages": []
+}
